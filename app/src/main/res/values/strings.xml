@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wheather app</string>
+    <string name="editText_hint">Enter city name</string>
+    <string name="weather_img">weather image</string>
+</resources>
